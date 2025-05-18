@@ -43,6 +43,6 @@ h2 {
     text-transform: uppercase;
     border-bottom: 2px solid #007BFF;
     padding-bottom: 5px; /* Verklein de padding */
-    line-height: 1.2; /* Pas de verticale grootte aan */
+    line-height: 0.5; /* Pas de verticale grootte aan */
 }
 
