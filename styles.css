@@ -42,7 +42,9 @@ h2 {
     text-align: center;
     text-transform: uppercase;
     border-bottom: 2px solid #007BFF;
-    padding-bottom: 5px; /* Verklein de padding */
-    line-height: 0.5; /* Pas de verticale grootte aan */
+    padding-bottom: 5px;
+    line-height: 1.2;
+    width: 50%; /* Verklein de breedte */
+    margin: auto; /* Centrer het kopje */
 }
 
